@@ -1,2 +1,2 @@
-# Exerciocio-flex-box
+# Exercicio-flex-box
 Projeto Flex Box
