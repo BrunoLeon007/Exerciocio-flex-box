@@ -1,0 +1,24 @@
+.planos{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    width: 200px;
+}  
+.planos .cards{
+    background-color: black;
+    color: aliceblue;
+    background: #111;
+    border-color: brown;
+ 
+} 
+.planos .cards img{
+    width: 400px;
+}
+.planos .cards button{
+    display: flex;
+    margin: auto;
+}
+.planos .cards p{
+text-align: center;
+   
+}

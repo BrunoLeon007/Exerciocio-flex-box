@@ -1,3 +1,6 @@
-.Formulario{
-    display: flex 50px 50px
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
