@@ -1,0 +1,11 @@
+.produtos{
+    display: flex;
+    gap: 20px;
+}
+
+.produtos .card-prod{
+    width: 300px;
+    background: #141414;
+    color: aliceblue;
+
+}
