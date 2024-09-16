@@ -4,8 +4,11 @@
 }
 
 .produtos .card-prod{
-    width: 300px;
+    width: 300%;
     background: #141414;
     color: aliceblue;
 
+}
+.produtos .card-prod img {
+    width: 100px;
 }

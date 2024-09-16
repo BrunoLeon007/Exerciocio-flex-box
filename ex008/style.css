@@ -4,8 +4,8 @@
    gap: 30px;
 }
 .servico .card-servicos {
-    width: 300px;
+    width: 100%;
 }
 .servico .card-servicos img {
-  width: 100%;
+  width: 300px;
 }
